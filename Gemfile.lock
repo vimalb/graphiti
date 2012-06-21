@@ -1,0 +1,22 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    macaddr (1.6.1)
+      systemu (~> 2.5.0)
+    mime-types (1.18)
+    multi_json (1.0.4)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+    systemu (2.5.1)
+    uuid (2.3.5)
+      macaddr (~> 1.0)
+    veritable (0.1.0.80)
+      multi_json
+      rest-client (~> 1.4)
+      uuid
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  veritable

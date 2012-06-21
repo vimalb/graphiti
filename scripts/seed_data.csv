@@ -1,0 +1,1001 @@
+"class","user","day","time_of_day","client","true_time","user_class","user_estimate"
+"Short","Yvette","Tuesday","Afternoon","Weyland-Yutani",2,"Short",5
+"Short","Yvette","Monday","Morning","OCP Inc",2,"Short",7
+"Long","Cindy","Wednesday","Afternoon","OCP Inc",104,"Long",109
+"Short","Tom","Friday","Afternoon","Weyland-Yutani",14,"Short",7
+"Short","Jim","Wednesday","Lunchtime","OCP Inc",8,"Short",1
+"Short","Jim","Wednesday","Morning","Cyberdyne Systems",8,"Short",14
+"Short","Tom","Wednesday","Afternoon","Tyrell",2,"Long",6
+"Short","Jim","Tuesday","Afternoon","Tyrell",3,"Short",8
+"Short","Yvette","Tuesday","Afternoon","Tyrell",12,"Short",91
+"Short","Jim","Tuesday","Lunchtime","Cyberdyne Systems",8,"Short",6
+"Short","Yvette","Wednesday","Lunchtime","Cyberdyne Systems",8,"Short",9
+"Short","Jim","Friday","Morning","Mooby's Family Restaurants",6,"Short",5
+"Long","Evelyn","Monday","Morning","Tyrell",116,"Long",118
+"Short","Jim","Thursday","Afternoon","OCP Inc",7,"Short",1
+"Short","Yvette","Tuesday","Morning","Tyrell",10,"Short",89
+"Short","Tom","Monday","Afternoon","Weyland-Yutani",1,"Short",6
+"Short","Jim","Monday","Afternoon","Mooby's Family Restaurants",6,"Short",11
+"Short","Tom","Friday","Afternoon","Weyland-Yutani",6,"Short",4
+"Short","Cindy","Tuesday","Afternoon","Weyland-Yutani",6,"Short",117
+"Short","Jim","Friday","Morning","Cyberdyne Systems",3,"Short",14
+"Short","Jim","Wednesday","Morning","Tyrell",5,"Short",7
+"Short","Yvette","Thursday","Lunchtime","Weyland-Yutani",11,"Short",5
+"Short","Jim","Monday","Morning","Tyrell",12,"Short",5
+"Short","Cindy","Thursday","Morning","Weyland-Yutani",11,"Short",6
+"Short","Cindy","Tuesday","Afternoon","Tyrell",3,"Short",101
+"Long","Jim","Wednesday","Lunchtime","Cyberdyne Systems",83,"Long",81
+"Short","Jim","Tuesday","Lunchtime","Tyrell",9,"Short",10
+"Short","Tom","Friday","Lunchtime","Mooby's Family Restaurants",4,"Short",12
+"Long","Jim","Thursday","Morning","Weyland-Yutani",84,"Long",93
+"Short","Cindy","Friday","Morning","Tyrell",6,"Short",1
+"Short","Jim","Wednesday","Lunchtime","Weyland-Yutani",10,"Short",3
+"Short","Yvette","Wednesday","Morning","Mooby's Family Restaurants",13,"Short",5
+"Short","Evelyn","Tuesday","Afternoon","Weyland-Yutani",8,"Short",4
+"Short","Cindy","Friday","Morning","Tyrell",3,"Short",10
+"Short","Yvette","Monday","Afternoon","Cyberdyne Systems",14,"Short",10
+"Short","Jim","Monday","Morning","Tyrell",7,"Short",5
+"Short","Yvette","Tuesday","Lunchtime","OCP Inc",6,"Short",8
+"Long","Jim","Thursday","Lunchtime","Weyland-Yutani",81,"Long",82
+"Short","Jim","Friday","Morning","Tyrell",1,"Short",11
+"Long","Tom","Friday","Lunchtime","Weyland-Yutani",59,"Long",105
+"Long","Tom","Monday","Lunchtime","Tyrell",73,"Long",6
+"Short","Evelyn","Thursday","Morning","OCP Inc",8,"Short",14
+"Long","Cindy","Tuesday","Afternoon","Mooby's Family Restaurants",81,"Long",71
+"Short","Evelyn","Monday","Lunchtime","Cyberdyne Systems",13,"Short",8
+"Short","Evelyn","Tuesday","Morning","Cyberdyne Systems",6,"Short",49
+"Short","Tom","Wednesday","Lunchtime","Mooby's Family Restaurants",3,"Short",4
+"Short","Jim","Tuesday","Lunchtime","Tyrell",13,"Short",3
+"Short","Jim","Friday","Lunchtime","Mooby's Family Restaurants",4,"Short",10
+"Short","Jim","Friday","Afternoon","OCP Inc",1,"Short",12
+"Short","Tom","Wednesday","Morning","OCP Inc",3,"Short",2
+"Long","Yvette","Monday","Lunchtime","OCP Inc",112,"Long",94
+"Long","Cindy","Thursday","Morning","Mooby's Family Restaurants",96,"Long",101
+"Short","Jim","Tuesday","Morning","Cyberdyne Systems",1,"Short",1
+"Short","Yvette","Monday","Lunchtime","Weyland-Yutani",5,"Short",5
+"Short","Tom","Friday","Morning","Cyberdyne Systems",3,"Short",11
+"Short","Cindy","Friday","Morning","Weyland-Yutani",9,"Short",13
+"Long","Jim","Monday","Afternoon","Mooby's Family Restaurants",128,"Long",108
+"Short","Jim","Monday","Lunchtime","OCP Inc",9,"Short",9
+"Short","Tom","Tuesday","Afternoon","Mooby's Family Restaurants",13,"Short",4
+"Short","Yvette","Tuesday","Lunchtime","Tyrell",11,"Short",1
+"Short","Yvette","Monday","Lunchtime","Mooby's Family Restaurants",13,"Short",1
+"Short","Tom","Tuesday","Afternoon","Cyberdyne Systems",13,"Short",9
+"Short","Tom","Thursday","Lunchtime","Mooby's Family Restaurants",3,"Short",4
+"Short","Tom","Wednesday","Afternoon","Tyrell",16,"Short",10
+"Short","Yvette","Tuesday","Lunchtime","Weyland-Yutani",3,"Short",6
+"Short","Evelyn","Monday","Lunchtime","Weyland-Yutani",5,"Short",7
+"Short","Evelyn","Monday","Morning","Weyland-Yutani",9,"Short",1
+"Short","Tom","Wednesday","Morning","Mooby's Family Restaurants",7,"Short",2
+"Short","Yvette","Wednesday","Lunchtime","Mooby's Family Restaurants",11,"Short",7
+"Long","Yvette","Wednesday","Morning","Cyberdyne Systems",133,"Long",105
+"Short","Tom","Wednesday","Morning","Tyrell",20,"Short",15
+"Short","Jim","Tuesday","Lunchtime","Cyberdyne Systems",15,"Short",15
+"Short","Cindy","Thursday","Afternoon","OCP Inc",12,"Short",9
+"Short","Jim","Monday","Afternoon","Mooby's Family Restaurants",8,"Short",13
+"Short","Tom","Wednesday","Lunchtime","Tyrell",8,"Short",9
+"Long","Tom","Monday","Morning","OCP Inc",105,"Long",106
+"Short","Cindy","Wednesday","Afternoon","Tyrell",8,"Short",8
+"Short","Jim","Wednesday","Afternoon","Weyland-Yutani",3,"Short",5
+"Short","Evelyn","Tuesday","Morning","Weyland-Yutani",12,"Short",3
+"Short","Cindy","Wednesday","Afternoon","OCP Inc",9,"Short",4
+"Short","Jim","Tuesday","Morning","Weyland-Yutani",10,"Short",7
+"Short","Tom","Monday","Lunchtime","Tyrell",8,"Short",1
+"Short","Cindy","Friday","Afternoon","Cyberdyne Systems",8,"Short",10
+"Short","Evelyn","Friday","Afternoon","Mooby's Family Restaurants",12,"Short",4
+"Short","Jim","Tuesday","Lunchtime","Mooby's Family Restaurants",1,"Short",11
+"Long","Jim","Friday","Lunchtime","OCP Inc",90,"Long",74
+"Long","Evelyn","Friday","Afternoon","Weyland-Yutani",99,"Long",117
+"Short","Jim","Friday","Afternoon","Tyrell",11,"Long",8
+"Short","Evelyn","Thursday","Lunchtime","Mooby's Family Restaurants",6,"Long",7
+"Long","Tom","Tuesday","Morning","Cyberdyne Systems",97,"Long",85
+"Short","Jim","Wednesday","Lunchtime","Cyberdyne Systems",16,"Short",9
+"Short","Cindy","Wednesday","Morning","Cyberdyne Systems",9,"Short",9
+"Short","Evelyn","Thursday","Morning","OCP Inc",14,"Long",8
+"Short","Tom","Wednesday","Afternoon","Mooby's Family Restaurants",7,"Short",10
+"Short","Tom","Monday","Lunchtime","Tyrell",9,"Short",3
+"Short","Tom","Wednesday","Morning","Weyland-Yutani",11,"Short",5
+"Short","Yvette","Friday","Lunchtime","Weyland-Yutani",10,"Short",16
+"Short","Cindy","Monday","Lunchtime","OCP Inc",9,"Short",11
+"Short","Yvette","Tuesday","Morning","Weyland-Yutani",10,"Short",5
+"Short","Evelyn","Monday","Morning","Cyberdyne Systems",12,"Short",10
+"Short","Jim","Friday","Afternoon","Mooby's Family Restaurants",7,"Short",8
+"Short","Tom","Friday","Morning","Mooby's Family Restaurants",10,"Short",4
+"Long","Yvette","Friday","Afternoon","Tyrell",102,"Long",81
+"Short","Evelyn","Wednesday","Morning","Tyrell",7,"Short",1
+"Short","Cindy","Thursday","Lunchtime","Cyberdyne Systems",5,"Short",12
+"Short","Yvette","Thursday","Afternoon","Weyland-Yutani",10,"Short",4
+"Short","Tom","Thursday","Lunchtime","Tyrell",13,"Short",9
+"Short","Cindy","Monday","Morning","Weyland-Yutani",11,"Short",8
+"Short","Cindy","Monday","Morning","Weyland-Yutani",2,"Short",8
+"Short","Jim","Friday","Lunchtime","Weyland-Yutani",6,"Short",7
+"Short","Evelyn","Friday","Lunchtime","Mooby's Family Restaurants",7,"Short",10
+"Long","Cindy","Wednesday","Morning","Tyrell",135,"Long",113
+"Short","Tom","Friday","Morning","Mooby's Family Restaurants",10,"Short",13
+"Short","Evelyn","Thursday","Morning","Tyrell",10,"Short",6
+"Short","Tom","Tuesday","Lunchtime","Weyland-Yutani",4,"Short",11
+"Long","Yvette","Wednesday","Afternoon","Mooby's Family Restaurants",98,"Long",6
+"Short","Jim","Tuesday","Afternoon","Weyland-Yutani",9,"Short",10
+"Short","Cindy","Wednesday","Afternoon","Mooby's Family Restaurants",2,"Short",4
+"Long","Yvette","Thursday","Lunchtime","Weyland-Yutani",104,"Long",118
+"Long","Yvette","Monday","Afternoon","Cyberdyne Systems",118,"Long",85
+"Short","Tom","Thursday","Lunchtime","OCP Inc",6,"Short",1
+"Short","Cindy","Monday","Lunchtime","Weyland-Yutani",6,"Long",5
+"Short","Jim","Monday","Afternoon","Weyland-Yutani",5,"Short",9
+"Long","Cindy","Wednesday","Afternoon","Weyland-Yutani",105,"Long",6
+"Short","Jim","Wednesday","Morning","Weyland-Yutani",2,"Short",2
+"Short","Evelyn","Tuesday","Morning","OCP Inc",11,"Short",7
+"Short","Evelyn","Friday","Lunchtime","Weyland-Yutani",10,"Long",4
+"Short","Evelyn","Friday","Afternoon","Tyrell",5,"Short",11
+"Short","Evelyn","Tuesday","Morning","Cyberdyne Systems",5,"Short",109
+"Short","Tom","Friday","Morning","OCP Inc",1,"Short",11
+"Short","Jim","Thursday","Morning","Tyrell",10,"Short",8
+"Short","Cindy","Monday","Afternoon","OCP Inc",10,"Short",10
+"Short","Cindy","Monday","Lunchtime","Cyberdyne Systems",1,"Short",7
+"Long","Yvette","Friday","Morning","Mooby's Family Restaurants",58,"Long",85
+"Short","Evelyn","Tuesday","Morning","Cyberdyne Systems",5,"Short",118
+"Long","Tom","Friday","Lunchtime","Weyland-Yutani",61,"Long",91
+"Short","Evelyn","Tuesday","Morning","Tyrell",13,"Short",13
+"Long","Cindy","Tuesday","Lunchtime","Mooby's Family Restaurants",97,"Long",106
+"Long","Tom","Thursday","Morning","OCP Inc",106,"Long",112
+"Short","Cindy","Monday","Morning","Weyland-Yutani",12,"Short",15
+"Short","Evelyn","Thursday","Lunchtime","Cyberdyne Systems",11,"Long",11
+"Long","Yvette","Wednesday","Morning","Weyland-Yutani",113,"Long",70
+"Short","Jim","Monday","Lunchtime","Mooby's Family Restaurants",10,"Short",4
+"Short","Tom","Wednesday","Morning","Tyrell",13,"Long",6
+"Short","Evelyn","Friday","Morning","Tyrell",6,"Short",12
+"Short","Tom","Monday","Morning","Tyrell",11,"Short",14
+"Short","Jim","Friday","Lunchtime","Cyberdyne Systems",11,"Short",9
+"Short","Jim","Monday","Morning","Cyberdyne Systems",1,"Short",5
+"Short","Yvette","Tuesday","Lunchtime","Weyland-Yutani",11,"Short",10
+"Long","Jim","Tuesday","Lunchtime","Cyberdyne Systems",108,"Long",10
+"Short","Yvette","Monday","Afternoon","OCP Inc",16,"Short",6
+"Short","Tom","Wednesday","Afternoon","Mooby's Family Restaurants",5,"Short",5
+"Short","Tom","Tuesday","Afternoon","Mooby's Family Restaurants",2,"Short",7
+"Short","Cindy","Wednesday","Morning","Mooby's Family Restaurants",9,"Short",12
+"Short","Tom","Friday","Morning","Cyberdyne Systems",5,"Short",6
+"Short","Jim","Wednesday","Lunchtime","Weyland-Yutani",2,"Short",10
+"Short","Evelyn","Friday","Lunchtime","Weyland-Yutani",7,"Short",1
+"Short","Yvette","Tuesday","Morning","Mooby's Family Restaurants",10,"Short",12
+"Long","Tom","Friday","Morning","Cyberdyne Systems",121,"Long",99
+"Short","Jim","Tuesday","Lunchtime","Weyland-Yutani",2,"Short",15
+"Short","Jim","Tuesday","Afternoon","Weyland-Yutani",6,"Short",5
+"Short","Tom","Tuesday","Afternoon","Tyrell",5,"Short",3
+"Short","Yvette","Wednesday","Afternoon","Tyrell",9,"Long",7
+"Short","Tom","Monday","Afternoon","Mooby's Family Restaurants",16,"Short",5
+"Short","Jim","Thursday","Morning","Weyland-Yutani",3,"Short",1
+"Short","Cindy","Friday","Afternoon","Tyrell",12,"Short",6
+"Short","Jim","Wednesday","Morning","Mooby's Family Restaurants",13,"Short",7
+"Short","Tom","Friday","Morning","Tyrell",8,"Short",8
+"Short","Jim","Monday","Afternoon","Weyland-Yutani",9,"Short",4
+"Short","Evelyn","Wednesday","Lunchtime","Weyland-Yutani",9,"Short",7
+"Short","Evelyn","Thursday","Morning","OCP Inc",1,"Short",101
+"Short","Evelyn","Tuesday","Afternoon","Mooby's Family Restaurants",7,"Short",11
+"Short","Jim","Wednesday","Afternoon","Weyland-Yutani",13,"Short",4
+"Short","Tom","Wednesday","Morning","Mooby's Family Restaurants",6,"Short",4
+"Short","Evelyn","Friday","Lunchtime","Mooby's Family Restaurants",12,"Short",6
+"Short","Yvette","Monday","Lunchtime","Weyland-Yutani",7,"Short",7
+"Short","Cindy","Tuesday","Afternoon","OCP Inc",8,"Short",6
+"Short","Yvette","Tuesday","Morning","Mooby's Family Restaurants",12,"Short",13
+"Short","Evelyn","Wednesday","Lunchtime","Cyberdyne Systems",13,"Short",10
+"Short","Evelyn","Friday","Afternoon","Tyrell",12,"Short",12
+"Short","Cindy","Tuesday","Morning","OCP Inc",12,"Short",13
+"Short","Yvette","Wednesday","Afternoon","Cyberdyne Systems",4,"Short",13
+"Long","Cindy","Wednesday","Morning","Cyberdyne Systems",89,"Long",94
+"Short","Tom","Wednesday","Lunchtime","Mooby's Family Restaurants",5,"Short",9
+"Short","Evelyn","Friday","Morning","Mooby's Family Restaurants",1,"Short",5
+"Long","Evelyn","Thursday","Morning","Mooby's Family Restaurants",123,"Long",101
+"Short","Tom","Monday","Afternoon","OCP Inc",10,"Short",9
+"Short","Jim","Thursday","Lunchtime","OCP Inc",5,"Short",11
+"Short","Jim","Tuesday","Afternoon","Tyrell",10,"Short",14
+"Short","Tom","Friday","Morning","Mooby's Family Restaurants",11,"Short",99
+"Short","Evelyn","Tuesday","Afternoon","OCP Inc",13,"Short",14
+"Short","Tom","Friday","Afternoon","Cyberdyne Systems",12,"Short",14
+"Short","Tom","Friday","Afternoon","Tyrell",7,"Short",4
+"Long","Yvette","Tuesday","Morning","Tyrell",116,"Long",91
+"Short","Jim","Monday","Morning","Cyberdyne Systems",3,"Short",1
+"Short","Yvette","Friday","Lunchtime","Tyrell",1,"Short",11
+"Short","Cindy","Tuesday","Lunchtime","Tyrell",8,"Short",112
+"Short","Jim","Thursday","Morning","Tyrell",6,"Short",8
+"Long","Jim","Thursday","Morning","Weyland-Yutani",107,"Long",92
+"Short","Yvette","Tuesday","Morning","Weyland-Yutani",4,"Short",4
+"Short","Cindy","Thursday","Lunchtime","Mooby's Family Restaurants",9,"Short",13
+"Long","Cindy","Friday","Lunchtime","Cyberdyne Systems",88,"Long",99
+"Short","Evelyn","Thursday","Lunchtime","Weyland-Yutani",9,"Short",5
+"Long","Evelyn","Tuesday","Lunchtime","OCP Inc",108,"Long",92
+"Short","Evelyn","Friday","Afternoon","Weyland-Yutani",6,"Short",10
+"Short","Evelyn","Monday","Afternoon","Cyberdyne Systems",3,"Short",5
+"Long","Cindy","Friday","Lunchtime","Weyland-Yutani",115,"Long",86
+"Long","Cindy","Friday","Morning","OCP Inc",108,"Long",98
+"Short","Tom","Friday","Afternoon","Weyland-Yutani",5,"Short",9
+"Short","Evelyn","Monday","Afternoon","Weyland-Yutani",6,"Short",9
+"Short","Tom","Thursday","Lunchtime","OCP Inc",14,"Short",9
+"Short","Cindy","Monday","Afternoon","Weyland-Yutani",1,"Short",13
+"Short","Jim","Friday","Afternoon","OCP Inc",9,"Short",73
+"Short","Cindy","Tuesday","Lunchtime","Mooby's Family Restaurants",3,"Short",9
+"Short","Tom","Tuesday","Morning","Tyrell",6,"Short",7
+"Short","Evelyn","Monday","Afternoon","Cyberdyne Systems",6,"Short",6
+"Short","Jim","Thursday","Lunchtime","Mooby's Family Restaurants",5,"Short",1
+"Short","Tom","Thursday","Lunchtime","OCP Inc",2,"Short",7
+"Short","Jim","Tuesday","Afternoon","OCP Inc",9,"Short",5
+"Short","Tom","Thursday","Afternoon","Mooby's Family Restaurants",6,"Short",8
+"Short","Evelyn","Monday","Morning","Tyrell",11,"Short",6
+"Short","Jim","Wednesday","Lunchtime","Tyrell",5,"Short",13
+"Short","Evelyn","Wednesday","Lunchtime","Tyrell",8,"Short",4
+"Short","Evelyn","Friday","Morning","Cyberdyne Systems",6,"Short",19
+"Short","Yvette","Friday","Lunchtime","Weyland-Yutani",7,"Short",5
+"Short","Jim","Tuesday","Afternoon","Weyland-Yutani",9,"Short",4
+"Long","Yvette","Thursday","Morning","OCP Inc",85,"Long",102
+"Short","Tom","Tuesday","Lunchtime","Tyrell",4,"Short",7
+"Short","Evelyn","Monday","Afternoon","Mooby's Family Restaurants",7,"Short",5
+"Short","Cindy","Thursday","Morning","OCP Inc",12,"Short",1
+"Long","Tom","Friday","Morning","Weyland-Yutani",126,"Long",123
+"Short","Yvette","Wednesday","Afternoon","Tyrell",6,"Short",13
+"Short","Tom","Thursday","Morning","Weyland-Yutani",8,"Short",1
+"Short","Jim","Tuesday","Morning","OCP Inc",13,"Short",10
+"Short","Cindy","Tuesday","Lunchtime","Mooby's Family Restaurants",10,"Short",7
+"Short","Tom","Monday","Morning","OCP Inc",6,"Short",4
+"Short","Yvette","Thursday","Afternoon","Cyberdyne Systems",5,"Short",5
+"Short","Evelyn","Wednesday","Afternoon","Mooby's Family Restaurants",3,"Short",9
+"Long","Evelyn","Friday","Morning","Weyland-Yutani",71,"Long",92
+"Short","Tom","Wednesday","Afternoon","Weyland-Yutani",10,"Short",1
+"Short","Cindy","Wednesday","Morning","Tyrell",1,"Short",9
+"Short","Jim","Wednesday","Lunchtime","OCP Inc",8,"Short",8
+"Short","Jim","Thursday","Lunchtime","Cyberdyne Systems",8,"Short",16
+"Short","Tom","Friday","Lunchtime","OCP Inc",5,"Short",9
+"Short","Tom","Monday","Lunchtime","OCP Inc",7,"Short",9
+"Short","Yvette","Monday","Morning","OCP Inc",12,"Short",18
+"Long","Jim","Monday","Afternoon","Cyberdyne Systems",71,"Long",100
+"Long","Yvette","Monday","Lunchtime","Weyland-Yutani",103,"Long",89
+"Long","Evelyn","Tuesday","Lunchtime","Mooby's Family Restaurants",119,"Long",82
+"Short","Jim","Wednesday","Morning","Tyrell",10,"Short",13
+"Long","Cindy","Friday","Afternoon","Cyberdyne Systems",107,"Long",80
+"Short","Evelyn","Friday","Afternoon","Weyland-Yutani",5,"Short",9
+"Short","Cindy","Wednesday","Afternoon","Weyland-Yutani",12,"Short",9
+"Short","Evelyn","Wednesday","Afternoon","OCP Inc",6,"Short",10
+"Short","Evelyn","Friday","Morning","OCP Inc",3,"Short",7
+"Long","Cindy","Thursday","Morning","Weyland-Yutani",106,"Long",74
+"Short","Yvette","Thursday","Afternoon","Weyland-Yutani",1,"Short",16
+"Short","Jim","Monday","Afternoon","Cyberdyne Systems",2,"Short",11
+"Short","Cindy","Tuesday","Morning","OCP Inc",13,"Short",12
+"Short","Evelyn","Wednesday","Lunchtime","Mooby's Family Restaurants",8,"Short",3
+"Long","Evelyn","Thursday","Morning","Tyrell",109,"Long",135
+"Short","Yvette","Wednesday","Lunchtime","Tyrell",6,"Short",12
+"Short","Jim","Friday","Afternoon","Mooby's Family Restaurants",4,"Short",11
+"Short","Cindy","Thursday","Morning","Mooby's Family Restaurants",16,"Short",8
+"Short","Evelyn","Wednesday","Lunchtime","Weyland-Yutani",8,"Short",4
+"Long","Jim","Wednesday","Morning","Cyberdyne Systems",95,"Long",6
+"Short","Tom","Wednesday","Afternoon","Cyberdyne Systems",12,"Short",10
+"Short","Evelyn","Monday","Morning","Mooby's Family Restaurants",14,"Short",1
+"Short","Tom","Wednesday","Lunchtime","OCP Inc",2,"Short",8
+"Short","Yvette","Tuesday","Lunchtime","Tyrell",1,"Short",8
+"Long","Tom","Monday","Lunchtime","Cyberdyne Systems",99,"Long",72
+"Short","Jim","Thursday","Afternoon","Weyland-Yutani",8,"Short",8
+"Short","Yvette","Wednesday","Morning","OCP Inc",9,"Short",6
+"Short","Cindy","Tuesday","Morning","Weyland-Yutani",8,"Short",13
+"Long","Yvette","Thursday","Afternoon","Tyrell",95,"Long",11
+"Short","Jim","Friday","Morning","Weyland-Yutani",7,"Short",9
+"Short","Tom","Thursday","Afternoon","Weyland-Yutani",5,"Short",8
+"Long","Cindy","Thursday","Morning","OCP Inc",82,"Long",89
+"Short","Yvette","Monday","Lunchtime","Weyland-Yutani",12,"Short",13
+"Short","Cindy","Wednesday","Afternoon","Cyberdyne Systems",9,"Short",5
+"Short","Tom","Thursday","Morning","Mooby's Family Restaurants",7,"Short",7
+"Short","Jim","Monday","Lunchtime","Cyberdyne Systems",10,"Short",17
+"Short","Jim","Monday","Morning","Mooby's Family Restaurants",16,"Short",6
+"Short","Evelyn","Thursday","Lunchtime","Weyland-Yutani",6,"Short",104
+"Short","Yvette","Friday","Lunchtime","OCP Inc",10,"Short",7
+"Short","Tom","Thursday","Afternoon","Weyland-Yutani",9,"Short",8
+"Short","Cindy","Monday","Morning","Weyland-Yutani",14,"Short",13
+"Short","Tom","Monday","Lunchtime","OCP Inc",7,"Short",8
+"Short","Evelyn","Wednesday","Afternoon","Cyberdyne Systems",16,"Short",15
+"Long","Cindy","Thursday","Afternoon","Mooby's Family Restaurants",111,"Long",75
+"Long","Evelyn","Wednesday","Afternoon","OCP Inc",80,"Long",92
+"Short","Evelyn","Thursday","Lunchtime","Mooby's Family Restaurants",9,"Short",16
+"Long","Tom","Thursday","Lunchtime","Mooby's Family Restaurants",103,"Long",94
+"Short","Evelyn","Thursday","Morning","Cyberdyne Systems",13,"Long",11
+"Short","Yvette","Wednesday","Lunchtime","Mooby's Family Restaurants",2,"Short",7
+"Short","Evelyn","Wednesday","Afternoon","Mooby's Family Restaurants",14,"Long",14
+"Long","Jim","Thursday","Afternoon","Mooby's Family Restaurants",76,"Long",98
+"Short","Tom","Tuesday","Morning","OCP Inc",10,"Short",11
+"Short","Yvette","Monday","Afternoon","Tyrell",11,"Short",9
+"Short","Jim","Friday","Morning","Tyrell",9,"Short",8
+"Short","Tom","Tuesday","Lunchtime","Tyrell",15,"Short",9
+"Short","Tom","Thursday","Afternoon","Weyland-Yutani",12,"Short",12
+"Short","Jim","Tuesday","Morning","Weyland-Yutani",13,"Short",13
+"Long","Cindy","Tuesday","Lunchtime","Cyberdyne Systems",104,"Long",99
+"Long","Evelyn","Monday","Morning","Cyberdyne Systems",105,"Long",101
+"Short","Evelyn","Wednesday","Lunchtime","Cyberdyne Systems",7,"Short",5
+"Short","Cindy","Thursday","Morning","Tyrell",5,"Short",6
+"Long","Tom","Thursday","Lunchtime","OCP Inc",74,"Long",91
+"Short","Tom","Tuesday","Afternoon","Tyrell",17,"Short",4
+"Short","Evelyn","Wednesday","Afternoon","Tyrell",15,"Short",7
+"Short","Jim","Wednesday","Afternoon","Tyrell",6,"Short",13
+"Long","Tom","Thursday","Afternoon","OCP Inc",54,"Long",92
+"Short","Yvette","Tuesday","Lunchtime","Tyrell",6,"Short",7
+"Long","Tom","Wednesday","Afternoon","Mooby's Family Restaurants",106,"Long",8
+"Long","Yvette","Tuesday","Morning","Weyland-Yutani",105,"Long",96
+"Short","Cindy","Thursday","Morning","Weyland-Yutani",8,"Short",12
+"Short","Evelyn","Friday","Morning","OCP Inc",10,"Short",9
+"Short","Yvette","Thursday","Lunchtime","Weyland-Yutani",11,"Short",8
+"Short","Tom","Monday","Morning","Cyberdyne Systems",1,"Long",11
+"Short","Yvette","Friday","Afternoon","OCP Inc",6,"Short",8
+"Short","Evelyn","Friday","Morning","Tyrell",15,"Short",8
+"Short","Evelyn","Monday","Afternoon","Cyberdyne Systems",9,"Short",11
+"Short","Jim","Thursday","Afternoon","Weyland-Yutani",6,"Short",9
+"Long","Jim","Thursday","Lunchtime","Mooby's Family Restaurants",92,"Long",117
+"Short","Tom","Tuesday","Morning","Cyberdyne Systems",9,"Short",6
+"Short","Yvette","Wednesday","Lunchtime","Mooby's Family Restaurants",13,"Short",10
+"Short","Tom","Friday","Morning","Tyrell",1,"Short",9
+"Short","Evelyn","Wednesday","Lunchtime","Weyland-Yutani",7,"Short",15
+"Short","Jim","Friday","Afternoon","Tyrell",8,"Short",13
+"Long","Tom","Friday","Afternoon","Tyrell",106,"Short",122
+"Short","Cindy","Monday","Afternoon","Mooby's Family Restaurants",8,"Short",16
+"Short","Evelyn","Monday","Lunchtime","Mooby's Family Restaurants",12,"Short",8
+"Long","Evelyn","Wednesday","Afternoon","Tyrell",88,"Long",112
+"Long","Yvette","Friday","Morning","OCP Inc",105,"Long",84
+"Short","Evelyn","Monday","Morning","Mooby's Family Restaurants",7,"Short",15
+"Short","Jim","Wednesday","Afternoon","Mooby's Family Restaurants",12,"Short",4
+"Short","Cindy","Monday","Afternoon","Mooby's Family Restaurants",9,"Long",86
+"Short","Tom","Thursday","Lunchtime","Weyland-Yutani",13,"Short",13
+"Short","Jim","Monday","Afternoon","Mooby's Family Restaurants",11,"Short",2
+"Short","Yvette","Wednesday","Morning","Weyland-Yutani",14,"Short",4
+"Short","Jim","Tuesday","Afternoon","Cyberdyne Systems",13,"Short",10
+"Short","Yvette","Tuesday","Afternoon","Cyberdyne Systems",10,"Short",7
+"Short","Jim","Tuesday","Lunchtime","Cyberdyne Systems",7,"Short",10
+"Short","Tom","Friday","Lunchtime","OCP Inc",14,"Short",17
+"Short","Cindy","Thursday","Lunchtime","Tyrell",5,"Short",8
+"Short","Jim","Tuesday","Lunchtime","Weyland-Yutani",9,"Short",1
+"Long","Evelyn","Wednesday","Morning","Mooby's Family Restaurants",81,"Short",80
+"Short","Evelyn","Monday","Morning","Cyberdyne Systems",6,"Short",4
+"Short","Evelyn","Wednesday","Morning","Mooby's Family Restaurants",12,"Short",10
+"Short","Yvette","Friday","Lunchtime","Mooby's Family Restaurants",7,"Short",9
+"Short","Jim","Tuesday","Lunchtime","Weyland-Yutani",10,"Short",8
+"Long","Tom","Monday","Lunchtime","Weyland-Yutani",93,"Long",77
+"Long","Jim","Thursday","Morning","Cyberdyne Systems",78,"Long",81
+"Short","Evelyn","Wednesday","Morning","Weyland-Yutani",9,"Short",10
+"Short","Yvette","Wednesday","Afternoon","Tyrell",5,"Short",12
+"Short","Tom","Monday","Afternoon","OCP Inc",10,"Short",18
+"Short","Evelyn","Thursday","Morning","Mooby's Family Restaurants",11,"Long",13
+"Long","Yvette","Wednesday","Afternoon","OCP Inc",130,"Long",86
+"Short","Cindy","Monday","Lunchtime","Weyland-Yutani",13,"Short",96
+"Short","Evelyn","Thursday","Lunchtime","Cyberdyne Systems",1,"Short",5
+"Short","Tom","Monday","Lunchtime","Tyrell",8,"Short",11
+"Short","Cindy","Tuesday","Afternoon","OCP Inc",10,"Short",8
+"Short","Evelyn","Thursday","Afternoon","Mooby's Family Restaurants",6,"Short",6
+"Short","Cindy","Thursday","Morning","Mooby's Family Restaurants",1,"Short",9
+"Short","Jim","Tuesday","Morning","Cyberdyne Systems",5,"Short",7
+"Long","Yvette","Friday","Morning","OCP Inc",113,"Short",111
+"Long","Tom","Thursday","Afternoon","Weyland-Yutani",116,"Long",95
+"Short","Yvette","Friday","Afternoon","Mooby's Family Restaurants",10,"Short",5
+"Short","Evelyn","Thursday","Morning","Cyberdyne Systems",9,"Long",5
+"Short","Jim","Friday","Morning","OCP Inc",9,"Short",8
+"Short","Yvette","Thursday","Afternoon","Tyrell",7,"Short",7
+"Short","Jim","Thursday","Morning","OCP Inc",11,"Short",14
+"Long","Tom","Thursday","Afternoon","Weyland-Yutani",101,"Long",97
+"Short","Cindy","Friday","Afternoon","Tyrell",12,"Short",13
+"Long","Tom","Monday","Lunchtime","Tyrell",92,"Long",107
+"Short","Evelyn","Tuesday","Afternoon","Mooby's Family Restaurants",6,"Long",13
+"Short","Jim","Thursday","Morning","Cyberdyne Systems",8,"Short",9
+"Short","Cindy","Thursday","Afternoon","OCP Inc",6,"Short",7
+"Short","Cindy","Thursday","Afternoon","Mooby's Family Restaurants",6,"Short",4
+"Long","Cindy","Thursday","Morning","Weyland-Yutani",102,"Long",84
+"Short","Tom","Friday","Lunchtime","Weyland-Yutani",3,"Short",5
+"Short","Evelyn","Wednesday","Afternoon","Cyberdyne Systems",2,"Short",4
+"Long","Evelyn","Wednesday","Morning","Tyrell",76,"Long",80
+"Short","Jim","Tuesday","Morning","Mooby's Family Restaurants",5,"Short",3
+"Short","Tom","Tuesday","Afternoon","Cyberdyne Systems",6,"Short",14
+"Short","Evelyn","Wednesday","Afternoon","Weyland-Yutani",7,"Short",7
+"Short","Yvette","Wednesday","Lunchtime","Cyberdyne Systems",6,"Short",5
+"Short","Cindy","Thursday","Lunchtime","Tyrell",11,"Short",3
+"Short","Cindy","Thursday","Lunchtime","OCP Inc",8,"Short",9
+"Short","Jim","Monday","Morning","Tyrell",11,"Short",12
+"Long","Evelyn","Friday","Lunchtime","Cyberdyne Systems",74,"Long",99
+"Long","Tom","Tuesday","Afternoon","Cyberdyne Systems",109,"Long",98
+"Short","Jim","Tuesday","Afternoon","Mooby's Family Restaurants",6,"Long",90
+"Short","Jim","Wednesday","Morning","OCP Inc",11,"Short",9
+"Long","Cindy","Friday","Lunchtime","Weyland-Yutani",105,"Long",107
+"Short","Jim","Tuesday","Afternoon","Tyrell",7,"Short",10
+"Short","Yvette","Monday","Afternoon","OCP Inc",7,"Short",7
+"Short","Yvette","Thursday","Morning","Cyberdyne Systems",10,"Short",11
+"Long","Evelyn","Thursday","Afternoon","Cyberdyne Systems",87,"Long",106
+"Long","Yvette","Wednesday","Lunchtime","Cyberdyne Systems",94,"Long",77
+"Short","Yvette","Wednesday","Afternoon","Weyland-Yutani",15,"Short",6
+"Short","Jim","Wednesday","Afternoon","Tyrell",9,"Short",10
+"Long","Evelyn","Monday","Morning","Tyrell",122,"Long",117
+"Short","Yvette","Thursday","Morning","Tyrell",3,"Short",10
+"Short","Tom","Thursday","Afternoon","Tyrell",15,"Short",3
+"Long","Tom","Tuesday","Afternoon","OCP Inc",119,"Long",91
+"Long","Jim","Thursday","Lunchtime","Cyberdyne Systems",63,"Long",76
+"Long","Evelyn","Tuesday","Lunchtime","Weyland-Yutani",85,"Long",91
+"Short","Jim","Thursday","Morning","Mooby's Family Restaurants",3,"Short",8
+"Short","Yvette","Tuesday","Lunchtime","Mooby's Family Restaurants",4,"Short",12
+"Long","Cindy","Thursday","Lunchtime","Cyberdyne Systems",68,"Long",88
+"Short","Jim","Thursday","Morning","OCP Inc",11,"Short",118
+"Short","Cindy","Friday","Lunchtime","Mooby's Family Restaurants",6,"Long",14
+"Short","Cindy","Monday","Lunchtime","Cyberdyne Systems",5,"Short",9
+"Long","Jim","Monday","Lunchtime","Cyberdyne Systems",126,"Long",110
+"Short","Jim","Wednesday","Afternoon","Weyland-Yutani",5,"Short",117
+"Short","Jim","Monday","Morning","OCP Inc",9,"Short",6
+"Short","Evelyn","Wednesday","Lunchtime","Mooby's Family Restaurants",11,"Long",9
+"Short","Evelyn","Friday","Afternoon","Tyrell",6,"Short",4
+"Short","Cindy","Monday","Afternoon","Weyland-Yutani",4,"Short",8
+"Short","Jim","Monday","Morning","Mooby's Family Restaurants",16,"Short",2
+"Short","Evelyn","Thursday","Afternoon","Mooby's Family Restaurants",8,"Long",11
+"Short","Cindy","Monday","Lunchtime","OCP Inc",1,"Short",6
+"Short","Jim","Friday","Morning","Tyrell",6,"Long",14
+"Short","Cindy","Friday","Lunchtime","Tyrell",12,"Short",7
+"Short","Jim","Friday","Lunchtime","Cyberdyne Systems",11,"Short",6
+"Short","Jim","Monday","Morning","Tyrell",3,"Short",1
+"Short","Tom","Tuesday","Afternoon","Mooby's Family Restaurants",7,"Short",9
+"Short","Evelyn","Wednesday","Morning","Tyrell",7,"Short",9
+"Short","Tom","Friday","Lunchtime","OCP Inc",3,"Short",13
+"Long","Yvette","Thursday","Afternoon","Weyland-Yutani",85,"Short",13
+"Short","Evelyn","Thursday","Afternoon","Weyland-Yutani",1,"Long",3
+"Short","Tom","Monday","Afternoon","Mooby's Family Restaurants",2,"Short",13
+"Long","Tom","Thursday","Morning","Weyland-Yutani",90,"Long",112
+"Short","Cindy","Wednesday","Lunchtime","Cyberdyne Systems",10,"Short",7
+"Short","Cindy","Thursday","Lunchtime","Cyberdyne Systems",11,"Short",3
+"Long","Tom","Friday","Afternoon","Tyrell",99,"Long",89
+"Short","Cindy","Friday","Morning","Mooby's Family Restaurants",6,"Short",7
+"Short","Evelyn","Thursday","Morning","Tyrell",3,"Short",8
+"Short","Evelyn","Friday","Afternoon","Tyrell",15,"Short",8
+"Short","Evelyn","Thursday","Morning","Cyberdyne Systems",2,"Short",12
+"Short","Jim","Monday","Morning","Tyrell",2,"Short",12
+"Short","Jim","Wednesday","Morning","OCP Inc",10,"Short",14
+"Short","Tom","Friday","Afternoon","Weyland-Yutani",2,"Short",8
+"Short","Cindy","Friday","Afternoon","Tyrell",9,"Short",18
+"Short","Tom","Thursday","Morning","Tyrell",10,"Short",6
+"Short","Cindy","Monday","Morning","Weyland-Yutani",4,"Short",6
+"Short","Jim","Thursday","Afternoon","Tyrell",7,"Short",6
+"Short","Yvette","Monday","Afternoon","OCP Inc",8,"Short",7
+"Short","Evelyn","Wednesday","Lunchtime","Tyrell",8,"Short",12
+"Long","Jim","Thursday","Lunchtime","Weyland-Yutani",73,"Long",124
+"Short","Tom","Thursday","Afternoon","Mooby's Family Restaurants",11,"Short",13
+"Short","Yvette","Monday","Afternoon","OCP Inc",13,"Short",15
+"Short","Evelyn","Monday","Morning","Weyland-Yutani",8,"Short",9
+"Long","Yvette","Wednesday","Morning","Weyland-Yutani",100,"Long",101
+"Short","Jim","Monday","Morning","OCP Inc",8,"Short",11
+"Short","Jim","Monday","Lunchtime","Mooby's Family Restaurants",8,"Short",12
+"Long","Jim","Tuesday","Afternoon","Tyrell",93,"Long",81
+"Long","Evelyn","Monday","Afternoon","OCP Inc",120,"Long",127
+"Long","Evelyn","Monday","Afternoon","OCP Inc",99,"Long",79
+"Short","Evelyn","Monday","Lunchtime","Tyrell",13,"Short",10
+"Short","Yvette","Thursday","Lunchtime","Tyrell",2,"Short",7
+"Short","Cindy","Tuesday","Lunchtime","Mooby's Family Restaurants",4,"Short",6
+"Short","Yvette","Thursday","Afternoon","Tyrell",3,"Short",86
+"Short","Jim","Wednesday","Lunchtime","Tyrell",6,"Long",10
+"Short","Cindy","Monday","Lunchtime","Tyrell",12,"Short",8
+"Short","Cindy","Friday","Afternoon","Tyrell",14,"Short",7
+"Short","Cindy","Wednesday","Morning","Cyberdyne Systems",1,"Short",10
+"Short","Yvette","Thursday","Afternoon","Weyland-Yutani",12,"Short",16
+"Short","Jim","Wednesday","Lunchtime","Weyland-Yutani",14,"Short",7
+"Short","Tom","Wednesday","Afternoon","OCP Inc",7,"Short",7
+"Short","Yvette","Tuesday","Afternoon","OCP Inc",9,"Short",10
+"Long","Tom","Monday","Afternoon","Mooby's Family Restaurants",92,"Long",104
+"Short","Evelyn","Thursday","Afternoon","Mooby's Family Restaurants",14,"Short",106
+"Short","Yvette","Tuesday","Afternoon","Weyland-Yutani",6,"Short",10
+"Short","Cindy","Friday","Lunchtime","Tyrell",7,"Short",8
+"Short","Cindy","Friday","Morning","Tyrell",4,"Short",1
+"Short","Yvette","Wednesday","Morning","Weyland-Yutani",2,"Short",10
+"Short","Tom","Tuesday","Lunchtime","Mooby's Family Restaurants",5,"Long",9
+"Short","Yvette","Friday","Afternoon","OCP Inc",13,"Short",3
+"Long","Jim","Friday","Afternoon","OCP Inc",117,"Long",99
+"Short","Yvette","Wednesday","Lunchtime","OCP Inc",11,"Short",6
+"Short","Tom","Thursday","Afternoon","Cyberdyne Systems",9,"Short",4
+"Short","Cindy","Monday","Afternoon","Tyrell",4,"Short",10
+"Short","Tom","Thursday","Morning","Cyberdyne Systems",8,"Short",6
+"Long","Yvette","Monday","Lunchtime","OCP Inc",90,"Long",43
+"Long","Jim","Wednesday","Lunchtime","OCP Inc",84,"Long",57
+"Short","Cindy","Monday","Lunchtime","Cyberdyne Systems",7,"Short",12
+"Short","Tom","Tuesday","Lunchtime","OCP Inc",9,"Short",7
+"Short","Evelyn","Thursday","Afternoon","Tyrell",10,"Short",7
+"Short","Evelyn","Thursday","Afternoon","Cyberdyne Systems",4,"Short",11
+"Short","Tom","Thursday","Morning","OCP Inc",11,"Short",12
+"Short","Jim","Thursday","Afternoon","Mooby's Family Restaurants",1,"Short",6
+"Short","Jim","Monday","Afternoon","OCP Inc",2,"Short",3
+"Short","Yvette","Thursday","Morning","Cyberdyne Systems",3,"Short",10
+"Long","Evelyn","Wednesday","Afternoon","Mooby's Family Restaurants",87,"Long",102
+"Short","Tom","Friday","Afternoon","Tyrell",14,"Short",10
+"Short","Cindy","Friday","Morning","Tyrell",6,"Short",12
+"Short","Tom","Thursday","Afternoon","Tyrell",10,"Short",8
+"Short","Evelyn","Monday","Lunchtime","Cyberdyne Systems",9,"Short",8
+"Long","Jim","Wednesday","Lunchtime","OCP Inc",122,"Long",96
+"Short","Yvette","Wednesday","Lunchtime","Tyrell",1,"Short",10
+"Short","Jim","Thursday","Afternoon","Tyrell",16,"Short",9
+"Long","Jim","Tuesday","Lunchtime","Cyberdyne Systems",125,"Long",112
+"Short","Cindy","Wednesday","Afternoon","Mooby's Family Restaurants",2,"Short",9
+"Short","Tom","Thursday","Afternoon","Mooby's Family Restaurants",3,"Short",12
+"Short","Cindy","Monday","Lunchtime","Weyland-Yutani",8,"Short",2
+"Short","Tom","Monday","Morning","Tyrell",2,"Short",9
+"Short","Evelyn","Monday","Morning","Cyberdyne Systems",7,"Short",4
+"Short","Jim","Friday","Morning","Mooby's Family Restaurants",1,"Short",8
+"Short","Tom","Friday","Morning","Cyberdyne Systems",7,"Short",9
+"Short","Yvette","Wednesday","Afternoon","OCP Inc",6,"Short",4
+"Short","Evelyn","Friday","Lunchtime","Mooby's Family Restaurants",8,"Short",8
+"Short","Tom","Thursday","Morning","Weyland-Yutani",4,"Long",11
+"Long","Cindy","Monday","Lunchtime","Weyland-Yutani",119,"Long",103
+"Short","Tom","Monday","Afternoon","Tyrell",1,"Short",11
+"Short","Cindy","Monday","Afternoon","OCP Inc",9,"Short",6
+"Long","Tom","Monday","Morning","Cyberdyne Systems",110,"Long",14
+"Short","Jim","Thursday","Morning","OCP Inc",9,"Short",5
+"Long","Tom","Monday","Afternoon","Cyberdyne Systems",108,"Long",97
+"Short","Yvette","Wednesday","Morning","Tyrell",7,"Short",6
+"Long","Yvette","Friday","Afternoon","Tyrell",92,"Long",78
+"Long","Yvette","Monday","Morning","Tyrell",81,"Short",101
+"Long","Tom","Tuesday","Afternoon","Weyland-Yutani",108,"Long",109
+"Short","Yvette","Monday","Lunchtime","Tyrell",6,"Short",10
+"Short","Jim","Friday","Morning","OCP Inc",10,"Short",14
+"Short","Evelyn","Thursday","Lunchtime","Cyberdyne Systems",10,"Short",7
+"Long","Evelyn","Friday","Morning","Tyrell",83,"Long",111
+"Short","Yvette","Thursday","Morning","Tyrell",7,"Short",6
+"Short","Cindy","Tuesday","Afternoon","Cyberdyne Systems",6,"Short",12
+"Short","Jim","Friday","Afternoon","Tyrell",9,"Short",12
+"Short","Tom","Tuesday","Lunchtime","Tyrell",13,"Short",5
+"Short","Tom","Tuesday","Lunchtime","Tyrell",12,"Short",11
+"Short","Cindy","Monday","Morning","OCP Inc",10,"Short",8
+"Short","Jim","Friday","Afternoon","Mooby's Family Restaurants",13,"Long",10
+"Long","Yvette","Tuesday","Morning","Weyland-Yutani",117,"Long",127
+"Short","Jim","Thursday","Afternoon","Cyberdyne Systems",6,"Short",4
+"Short","Cindy","Monday","Afternoon","Tyrell",13,"Short",5
+"Short","Cindy","Thursday","Morning","OCP Inc",5,"Short",4
+"Short","Tom","Monday","Morning","Tyrell",10,"Short",2
+"Long","Jim","Thursday","Lunchtime","Weyland-Yutani",101,"Long",103
+"Short","Jim","Thursday","Afternoon","Weyland-Yutani",11,"Short",10
+"Short","Evelyn","Wednesday","Afternoon","Cyberdyne Systems",11,"Short",5
+"Short","Cindy","Friday","Morning","Weyland-Yutani",6,"Long",8
+"Long","Tom","Friday","Lunchtime","Cyberdyne Systems",96,"Long",85
+"Long","Yvette","Monday","Lunchtime","Mooby's Family Restaurants",97,"Long",93
+"Short","Tom","Friday","Afternoon","OCP Inc",16,"Short",5
+"Short","Evelyn","Friday","Afternoon","Tyrell",9,"Short",11
+"Long","Evelyn","Wednesday","Morning","Cyberdyne Systems",99,"Long",130
+"Short","Tom","Wednesday","Morning","Weyland-Yutani",7,"Short",5
+"Short","Jim","Wednesday","Lunchtime","Weyland-Yutani",4,"Short",1
+"Short","Evelyn","Friday","Morning","Mooby's Family Restaurants",1,"Short",3
+"Short","Tom","Wednesday","Lunchtime","OCP Inc",4,"Short",112
+"Short","Yvette","Thursday","Afternoon","OCP Inc",3,"Short",13
+"Short","Evelyn","Monday","Afternoon","Cyberdyne Systems",9,"Short",2
+"Short","Tom","Thursday","Afternoon","OCP Inc",7,"Short",5
+"Short","Yvette","Tuesday","Morning","OCP Inc",8,"Short",10
+"Short","Evelyn","Tuesday","Afternoon","Tyrell",9,"Short",3
+"Short","Tom","Thursday","Morning","Mooby's Family Restaurants",1,"Short",8
+"Short","Jim","Friday","Afternoon","OCP Inc",6,"Short",5
+"Short","Tom","Thursday","Afternoon","Weyland-Yutani",9,"Short",95
+"Short","Yvette","Thursday","Afternoon","Weyland-Yutani",10,"Short",12
+"Short","Yvette","Friday","Morning","Mooby's Family Restaurants",10,"Short",8
+"Short","Jim","Monday","Lunchtime","Weyland-Yutani",8,"Short",11
+"Long","Jim","Wednesday","Lunchtime","Tyrell",107,"Long",82
+"Long","Yvette","Monday","Afternoon","Weyland-Yutani",101,"Long",105
+"Short","Cindy","Monday","Morning","Weyland-Yutani",6,"Short",11
+"Short","Cindy","Wednesday","Lunchtime","Tyrell",2,"Short",15
+"Short","Tom","Wednesday","Afternoon","OCP Inc",13,"Short",7
+"Short","Tom","Thursday","Morning","Mooby's Family Restaurants",13,"Short",99
+"Short","Jim","Wednesday","Afternoon","Cyberdyne Systems",6,"Short",5
+"Short","Cindy","Monday","Afternoon","Weyland-Yutani",1,"Short",7
+"Short","Cindy","Thursday","Afternoon","Mooby's Family Restaurants",5,"Short",8
+"Short","Jim","Wednesday","Lunchtime","OCP Inc",5,"Short",15
+"Short","Jim","Tuesday","Afternoon","OCP Inc",10,"Short",6
+"Short","Cindy","Tuesday","Lunchtime","Tyrell",6,"Short",5
+"Long","Jim","Friday","Afternoon","Tyrell",98,"Long",78
+"Short","Jim","Tuesday","Lunchtime","Cyberdyne Systems",7,"Short",14
+"Short","Cindy","Tuesday","Afternoon","Tyrell",12,"Short",84
+"Short","Yvette","Wednesday","Afternoon","Weyland-Yutani",14,"Short",5
+"Short","Jim","Thursday","Afternoon","Tyrell",5,"Short",12
+"Long","Yvette","Friday","Afternoon","Weyland-Yutani",95,"Long",75
+"Short","Yvette","Friday","Afternoon","Weyland-Yutani",6,"Short",8
+"Short","Jim","Thursday","Morning","Tyrell",5,"Short",89
+"Short","Evelyn","Thursday","Lunchtime","Mooby's Family Restaurants",6,"Short",9
+"Short","Jim","Monday","Afternoon","Tyrell",6,"Short",11
+"Short","Evelyn","Friday","Morning","Tyrell",5,"Long",5
+"Short","Cindy","Wednesday","Lunchtime","Tyrell",8,"Short",10
+"Short","Jim","Friday","Morning","Mooby's Family Restaurants",10,"Short",6
+"Long","Yvette","Monday","Lunchtime","Mooby's Family Restaurants",65,"Long",76
+"Short","Jim","Thursday","Lunchtime","Cyberdyne Systems",16,"Short",12
+"Short","Jim","Monday","Morning","Mooby's Family Restaurants",1,"Short",10
+"Long","Jim","Friday","Lunchtime","Weyland-Yutani",81,"Long",11
+"Short","Jim","Monday","Morning","OCP Inc",13,"Short",7
+"Short","Tom","Friday","Afternoon","Mooby's Family Restaurants",3,"Short",7
+"Long","Evelyn","Wednesday","Lunchtime","Cyberdyne Systems",92,"Long",113
+"Short","Jim","Wednesday","Afternoon","Weyland-Yutani",10,"Short",1
+"Short","Evelyn","Wednesday","Morning","OCP Inc",1,"Short",5
+"Short","Jim","Wednesday","Lunchtime","Cyberdyne Systems",8,"Short",9
+"Long","Yvette","Thursday","Afternoon","Mooby's Family Restaurants",84,"Long",6
+"Short","Evelyn","Wednesday","Morning","Mooby's Family Restaurants",6,"Short",9
+"Short","Yvette","Friday","Morning","Weyland-Yutani",11,"Short",9
+"Short","Tom","Monday","Morning","Weyland-Yutani",15,"Short",6
+"Short","Cindy","Wednesday","Lunchtime","Cyberdyne Systems",2,"Short",66
+"Short","Jim","Monday","Lunchtime","Mooby's Family Restaurants",9,"Short",1
+"Short","Jim","Friday","Morning","OCP Inc",8,"Short",2
+"Short","Evelyn","Tuesday","Lunchtime","Mooby's Family Restaurants",4,"Short",9
+"Short","Evelyn","Tuesday","Afternoon","Cyberdyne Systems",5,"Short",10
+"Short","Cindy","Tuesday","Morning","Mooby's Family Restaurants",7,"Short",14
+"Short","Yvette","Tuesday","Afternoon","Cyberdyne Systems",2,"Short",4
+"Short","Cindy","Monday","Lunchtime","Cyberdyne Systems",15,"Short",9
+"Long","Cindy","Friday","Afternoon","Weyland-Yutani",123,"Long",119
+"Short","Cindy","Monday","Morning","Cyberdyne Systems",8,"Short",8
+"Short","Jim","Wednesday","Morning","Weyland-Yutani",8,"Short",17
+"Short","Yvette","Thursday","Morning","Mooby's Family Restaurants",8,"Short",3
+"Short","Cindy","Wednesday","Afternoon","Cyberdyne Systems",4,"Short",10
+"Short","Yvette","Friday","Lunchtime","Tyrell",13,"Short",91
+"Short","Jim","Friday","Afternoon","Tyrell",14,"Short",15
+"Long","Cindy","Friday","Afternoon","Mooby's Family Restaurants",105,"Long",92
+"Short","Yvette","Wednesday","Afternoon","Weyland-Yutani",12,"Short",106
+"Short","Yvette","Thursday","Afternoon","Mooby's Family Restaurants",7,"Short",5
+"Short","Evelyn","Thursday","Afternoon","OCP Inc",6,"Short",5
+"Short","Tom","Tuesday","Afternoon","OCP Inc",9,"Short",12
+"Short","Tom","Friday","Morning","Tyrell",8,"Short",1
+"Short","Evelyn","Tuesday","Morning","OCP Inc",6,"Short",4
+"Short","Tom","Tuesday","Afternoon","Weyland-Yutani",5,"Short",8
+"Long","Yvette","Wednesday","Lunchtime","Mooby's Family Restaurants",107,"Long",91
+"Short","Yvette","Friday","Afternoon","OCP Inc",8,"Short",9
+"Short","Jim","Tuesday","Morning","Weyland-Yutani",1,"Short",6
+"Short","Yvette","Friday","Morning","Weyland-Yutani",7,"Short",99
+"Short","Evelyn","Monday","Morning","Weyland-Yutani",14,"Short",13
+"Short","Tom","Tuesday","Lunchtime","Tyrell",7,"Short",4
+"Short","Jim","Friday","Morning","Weyland-Yutani",7,"Short",3
+"Short","Tom","Thursday","Lunchtime","Weyland-Yutani",4,"Short",2
+"Long","Tom","Wednesday","Morning","OCP Inc",92,"Long",110
+"Short","Yvette","Friday","Afternoon","Tyrell",8,"Short",1
+"Long","Evelyn","Thursday","Afternoon","Cyberdyne Systems",93,"Long",106
+"Short","Tom","Friday","Lunchtime","Tyrell",4,"Short",7
+"Short","Tom","Tuesday","Morning","Tyrell",9,"Long",8
+"Long","Jim","Friday","Morning","OCP Inc",101,"Long",70
+"Short","Jim","Tuesday","Lunchtime","Mooby's Family Restaurants",7,"Short",1
+"Long","Yvette","Monday","Lunchtime","Tyrell",101,"Long",80
+"Long","Jim","Thursday","Morning","Weyland-Yutani",113,"Long",100
+"Short","Tom","Friday","Morning","Mooby's Family Restaurants",1,"Short",13
+"Short","Tom","Monday","Morning","Cyberdyne Systems",8,"Short",11
+"Short","Tom","Friday","Lunchtime","Mooby's Family Restaurants",9,"Short",10
+"Long","Jim","Monday","Afternoon","Mooby's Family Restaurants",118,"Long",88
+"Short","Tom","Friday","Morning","Mooby's Family Restaurants",13,"Short",12
+"Short","Jim","Thursday","Morning","OCP Inc",7,"Short",137
+"Short","Cindy","Thursday","Morning","Mooby's Family Restaurants",7,"Short",15
+"Short","Evelyn","Tuesday","Morning","Weyland-Yutani",7,"Short",10
+"Long","Tom","Thursday","Lunchtime","OCP Inc",65,"Long",91
+"Short","Evelyn","Wednesday","Lunchtime","Weyland-Yutani",12,"Short",7
+"Short","Yvette","Tuesday","Afternoon","Mooby's Family Restaurants",5,"Short",18
+"Short","Jim","Thursday","Lunchtime","Tyrell",6,"Short",13
+"Long","Yvette","Friday","Afternoon","OCP Inc",104,"Long",5
+"Long","Cindy","Monday","Morning","Cyberdyne Systems",80,"Long",88
+"Short","Jim","Tuesday","Morning","Cyberdyne Systems",11,"Short",12
+"Short","Jim","Monday","Afternoon","Weyland-Yutani",10,"Short",6
+"Short","Tom","Monday","Lunchtime","Cyberdyne Systems",12,"Short",1
+"Short","Yvette","Tuesday","Morning","Tyrell",6,"Short",6
+"Short","Yvette","Tuesday","Afternoon","Cyberdyne Systems",1,"Short",8
+"Short","Tom","Monday","Morning","Weyland-Yutani",7,"Short",9
+"Long","Tom","Friday","Morning","Tyrell",112,"Long",100
+"Short","Evelyn","Monday","Morning","Tyrell",5,"Short",6
+"Short","Yvette","Wednesday","Morning","Cyberdyne Systems",13,"Short",10
+"Short","Tom","Wednesday","Lunchtime","Cyberdyne Systems",13,"Short",6
+"Short","Evelyn","Tuesday","Lunchtime","Mooby's Family Restaurants",9,"Short",1
+"Short","Cindy","Tuesday","Lunchtime","Tyrell",9,"Long",7
+"Short","Tom","Wednesday","Morning","Mooby's Family Restaurants",4,"Short",10
+"Short","Cindy","Friday","Morning","Cyberdyne Systems",7,"Long",11
+"Short","Tom","Tuesday","Morning","Tyrell",8,"Short",9
+"Short","Yvette","Friday","Lunchtime","Cyberdyne Systems",7,"Short",6
+"Short","Yvette","Monday","Morning","Cyberdyne Systems",7,"Short",10
+"Short","Tom","Friday","Afternoon","Mooby's Family Restaurants",10,"Long",9
+"Long","Yvette","Wednesday","Lunchtime","OCP Inc",95,"Short",90
+"Long","Tom","Thursday","Lunchtime","Tyrell",93,"Long",103
+"Long","Tom","Wednesday","Afternoon","OCP Inc",135,"Long",76
+"Short","Cindy","Thursday","Morning","OCP Inc",9,"Short",8
+"Short","Jim","Thursday","Afternoon","OCP Inc",10,"Short",9
+"Short","Jim","Monday","Lunchtime","Mooby's Family Restaurants",12,"Short",4
+"Short","Yvette","Friday","Afternoon","Cyberdyne Systems",10,"Short",5
+"Short","Cindy","Wednesday","Afternoon","Weyland-Yutani",12,"Long",12
+"Short","Yvette","Friday","Afternoon","Cyberdyne Systems",13,"Short",9
+"Short","Jim","Thursday","Lunchtime","Cyberdyne Systems",11,"Short",10
+"Short","Jim","Monday","Afternoon","Tyrell",13,"Short",7
+"Short","Cindy","Tuesday","Lunchtime","Mooby's Family Restaurants",8,"Short",5
+"Long","Evelyn","Wednesday","Lunchtime","Weyland-Yutani",77,"Long",78
+"Short","Tom","Tuesday","Lunchtime","Tyrell",3,"Short",8
+"Short","Jim","Friday","Morning","Weyland-Yutani",14,"Short",12
+"Long","Tom","Monday","Afternoon","Weyland-Yutani",96,"Long",86
+"Short","Jim","Thursday","Afternoon","OCP Inc",6,"Short",12
+"Short","Jim","Wednesday","Afternoon","OCP Inc",14,"Short",1
+"Short","Tom","Wednesday","Morning","Weyland-Yutani",7,"Short",6
+"Short","Evelyn","Monday","Lunchtime","Mooby's Family Restaurants",8,"Short",13
+"Short","Jim","Friday","Lunchtime","Cyberdyne Systems",1,"Long",12
+"Short","Cindy","Friday","Afternoon","Weyland-Yutani",7,"Short",1
+"Short","Tom","Monday","Lunchtime","Tyrell",3,"Short",12
+"Short","Evelyn","Monday","Afternoon","Mooby's Family Restaurants",8,"Short",10
+"Short","Jim","Tuesday","Lunchtime","OCP Inc",6,"Short",5
+"Short","Yvette","Monday","Lunchtime","Tyrell",5,"Short",6
+"Short","Jim","Monday","Lunchtime","OCP Inc",10,"Short",11
+"Short","Tom","Friday","Morning","Weyland-Yutani",14,"Short",7
+"Short","Evelyn","Thursday","Lunchtime","OCP Inc",10,"Short",7
+"Short","Jim","Thursday","Afternoon","Mooby's Family Restaurants",5,"Short",118
+"Short","Jim","Friday","Morning","Weyland-Yutani",8,"Short",5
+"Long","Evelyn","Wednesday","Afternoon","Cyberdyne Systems",103,"Long",94
+"Long","Cindy","Thursday","Afternoon","Weyland-Yutani",87,"Long",100
+"Short","Cindy","Tuesday","Afternoon","Tyrell",11,"Short",12
+"Long","Tom","Thursday","Lunchtime","Mooby's Family Restaurants",85,"Long",6
+"Short","Yvette","Thursday","Afternoon","Weyland-Yutani",16,"Short",9
+"Short","Tom","Friday","Afternoon","Tyrell",14,"Short",9
+"Short","Yvette","Tuesday","Lunchtime","Mooby's Family Restaurants",6,"Short",4
+"Long","Yvette","Monday","Afternoon","OCP Inc",109,"Long",90
+"Short","Cindy","Monday","Morning","OCP Inc",8,"Short",2
+"Long","Evelyn","Thursday","Morning","Tyrell",89,"Long",127
+"Short","Jim","Wednesday","Lunchtime","Weyland-Yutani",6,"Short",3
+"Short","Jim","Tuesday","Afternoon","Mooby's Family Restaurants",5,"Short",11
+"Long","Jim","Monday","Lunchtime","Cyberdyne Systems",96,"Long",90
+"Short","Evelyn","Friday","Lunchtime","Tyrell",4,"Short",11
+"Short","Cindy","Tuesday","Lunchtime","OCP Inc",2,"Short",6
+"Short","Jim","Tuesday","Morning","Cyberdyne Systems",9,"Short",13
+"Short","Jim","Tuesday","Morning","OCP Inc",20,"Short",9
+"Short","Cindy","Monday","Morning","OCP Inc",9,"Short",2
+"Long","Jim","Wednesday","Lunchtime","OCP Inc",104,"Long",111
+"Short","Cindy","Monday","Lunchtime","OCP Inc",10,"Long",23
+"Short","Cindy","Tuesday","Afternoon","Cyberdyne Systems",7,"Short",11
+"Long","Cindy","Wednesday","Lunchtime","Cyberdyne Systems",96,"Long",108
+"Short","Tom","Tuesday","Afternoon","Cyberdyne Systems",7,"Short",5
+"Short","Jim","Wednesday","Afternoon","Cyberdyne Systems",7,"Short",10
+"Short","Yvette","Tuesday","Morning","Mooby's Family Restaurants",1,"Short",1
+"Short","Jim","Wednesday","Lunchtime","Weyland-Yutani",7,"Short",14
+"Short","Yvette","Friday","Morning","OCP Inc",5,"Short",13
+"Long","Tom","Tuesday","Afternoon","Mooby's Family Restaurants",106,"Long",85
+"Short","Yvette","Friday","Morning","Cyberdyne Systems",10,"Short",11
+"Short","Jim","Wednesday","Afternoon","Mooby's Family Restaurants",7,"Short",6
+"Short","Cindy","Friday","Morning","Tyrell",4,"Long",10
+"Short","Cindy","Tuesday","Afternoon","Cyberdyne Systems",6,"Long",9
+"Short","Tom","Thursday","Lunchtime","Tyrell",12,"Short",8
+"Short","Jim","Tuesday","Afternoon","OCP Inc",3,"Long",9
+"Long","Yvette","Wednesday","Morning","OCP Inc",94,"Long",109
+"Short","Evelyn","Wednesday","Morning","OCP Inc",4,"Short",8
+"Short","Tom","Thursday","Lunchtime","Mooby's Family Restaurants",13,"Short",3
+"Short","Tom","Tuesday","Lunchtime","OCP Inc",6,"Short",10
+"Short","Cindy","Wednesday","Morning","OCP Inc",9,"Short",7
+"Long","Yvette","Tuesday","Afternoon","Weyland-Yutani",102,"Long",102
+"Long","Cindy","Wednesday","Afternoon","Cyberdyne Systems",99,"Long",122
+"Long","Tom","Tuesday","Lunchtime","Mooby's Family Restaurants",124,"Long",103
+"Long","Evelyn","Wednesday","Afternoon","Weyland-Yutani",92,"Long",102
+"Short","Tom","Wednesday","Lunchtime","Cyberdyne Systems",6,"Short",20
+"Short","Evelyn","Monday","Lunchtime","Tyrell",11,"Short",7
+"Short","Tom","Monday","Morning","OCP Inc",10,"Short",13
+"Short","Yvette","Monday","Afternoon","Weyland-Yutani",5,"Short",2
+"Short","Jim","Wednesday","Morning","OCP Inc",5,"Short",9
+"Short","Tom","Monday","Morning","Weyland-Yutani",14,"Short",8
+"Short","Yvette","Thursday","Afternoon","Mooby's Family Restaurants",6,"Short",18
+"Short","Cindy","Thursday","Afternoon","Weyland-Yutani",11,"Long",10
+"Short","Jim","Monday","Lunchtime","Weyland-Yutani",3,"Short",12
+"Short","Evelyn","Thursday","Morning","Tyrell",6,"Short",4
+"Short","Jim","Friday","Lunchtime","Tyrell",12,"Short",5
+"Short","Evelyn","Thursday","Afternoon","Weyland-Yutani",9,"Short",10
+"Short","Yvette","Monday","Lunchtime","Mooby's Family Restaurants",5,"Short",13
+"Short","Cindy","Wednesday","Morning","OCP Inc",2,"Short",10
+"Long","Tom","Thursday","Lunchtime","Cyberdyne Systems",79,"Short",109
+"Short","Tom","Tuesday","Afternoon","Tyrell",3,"Short",1
+"Short","Cindy","Monday","Afternoon","Cyberdyne Systems",12,"Short",8
+"Short","Yvette","Friday","Afternoon","Mooby's Family Restaurants",8,"Short",7
+"Short","Yvette","Monday","Lunchtime","OCP Inc",8,"Short",9
+"Short","Cindy","Monday","Lunchtime","Weyland-Yutani",12,"Short",13
+"Short","Tom","Wednesday","Lunchtime","Weyland-Yutani",3,"Short",8
+"Short","Jim","Friday","Morning","Weyland-Yutani",7,"Short",5
+"Short","Yvette","Monday","Morning","Weyland-Yutani",1,"Short",10
+"Short","Jim","Wednesday","Lunchtime","Cyberdyne Systems",11,"Short",14
+"Short","Cindy","Thursday","Afternoon","Tyrell",12,"Short",6
+"Long","Jim","Tuesday","Lunchtime","Cyberdyne Systems",77,"Long",97
+"Short","Tom","Friday","Afternoon","OCP Inc",8,"Short",1
+"Short","Jim","Friday","Morning","OCP Inc",8,"Short",6
+"Long","Evelyn","Monday","Afternoon","Mooby's Family Restaurants",90,"Long",102
+"Long","Cindy","Friday","Lunchtime","Weyland-Yutani",54,"Long",90
+"Short","Yvette","Tuesday","Afternoon","Mooby's Family Restaurants",11,"Short",9
+"Long","Jim","Tuesday","Lunchtime","OCP Inc",101,"Long",92
+"Short","Yvette","Friday","Morning","OCP Inc",10,"Short",9
+"Short","Cindy","Friday","Lunchtime","Mooby's Family Restaurants",8,"Long",7
+"Short","Cindy","Wednesday","Lunchtime","Mooby's Family Restaurants",11,"Short",3
+"Short","Cindy","Friday","Morning","Cyberdyne Systems",10,"Short",8
+"Long","Cindy","Tuesday","Afternoon","Cyberdyne Systems",109,"Long",124
+"Short","Cindy","Tuesday","Morning","Weyland-Yutani",6,"Short",12
+"Short","Cindy","Wednesday","Morning","OCP Inc",11,"Short",3
+"Long","Yvette","Wednesday","Afternoon","Weyland-Yutani",114,"Short",89
+"Short","Jim","Friday","Afternoon","Weyland-Yutani",8,"Short",2
+"Short","Yvette","Friday","Lunchtime","Cyberdyne Systems",5,"Short",8
+"Short","Evelyn","Wednesday","Lunchtime","Weyland-Yutani",10,"Short",10
+"Short","Cindy","Tuesday","Lunchtime","Tyrell",11,"Short",11
+"Short","Yvette","Wednesday","Afternoon","Weyland-Yutani",9,"Short",3
+"Short","Cindy","Monday","Afternoon","Cyberdyne Systems",5,"Short",8
+"Short","Jim","Friday","Lunchtime","OCP Inc",12,"Short",1
+"Short","Cindy","Monday","Afternoon","Cyberdyne Systems",5,"Long",17
+"Short","Jim","Monday","Lunchtime","Tyrell",6,"Short",12
+"Long","Yvette","Friday","Lunchtime","Weyland-Yutani",112,"Long",82
+"Short","Jim","Wednesday","Morning","Cyberdyne Systems",11,"Short",12
+"Short","Tom","Friday","Afternoon","Weyland-Yutani",11,"Short",4
+"Short","Cindy","Thursday","Lunchtime","Tyrell",3,"Short",6
+"Short","Cindy","Thursday","Morning","Weyland-Yutani",10,"Short",12
+"Short","Jim","Friday","Afternoon","Mooby's Family Restaurants",8,"Short",6
+"Short","Jim","Friday","Morning","OCP Inc",10,"Short",8
+"Short","Yvette","Thursday","Morning","Mooby's Family Restaurants",6,"Long",4
+"Short","Cindy","Thursday","Afternoon","Tyrell",6,"Short",4
+"Short","Evelyn","Tuesday","Lunchtime","OCP Inc",3,"Short",9
+"Short","Yvette","Wednesday","Morning","Mooby's Family Restaurants",9,"Short",4
+"Long","Tom","Tuesday","Afternoon","Weyland-Yutani",88,"Long",81
+"Long","Yvette","Friday","Lunchtime","OCP Inc",73,"Short",73
+"Short","Jim","Thursday","Morning","Tyrell",9,"Short",8
+"Short","Cindy","Monday","Afternoon","Weyland-Yutani",7,"Short",13
+"Short","Cindy","Thursday","Lunchtime","Weyland-Yutani",4,"Short",14
+"Short","Yvette","Thursday","Afternoon","Cyberdyne Systems",10,"Short",12
+"Short","Yvette","Tuesday","Morning","Tyrell",4,"Short",3
+"Short","Cindy","Monday","Lunchtime","Cyberdyne Systems",4,"Short",11
+"Short","Tom","Thursday","Morning","Weyland-Yutani",12,"Short",7
+"Short","Jim","Thursday","Lunchtime","Mooby's Family Restaurants",12,"Short",11
+"Short","Cindy","Wednesday","Morning","Cyberdyne Systems",11,"Short",13
+"Short","Jim","Thursday","Morning","Mooby's Family Restaurants",5,"Short",6
+"Short","Yvette","Thursday","Lunchtime","Cyberdyne Systems",7,"Long",9
+"Short","Evelyn","Thursday","Morning","Mooby's Family Restaurants",8,"Long",8
+"Short","Jim","Wednesday","Morning","OCP Inc",7,"Short",4
+"Short","Tom","Friday","Lunchtime","Mooby's Family Restaurants",11,"Long",7
+"Short","Jim","Tuesday","Afternoon","Tyrell",2,"Short",4
+"Short","Tom","Friday","Afternoon","Mooby's Family Restaurants",10,"Short",14
+"Short","Cindy","Tuesday","Afternoon","Weyland-Yutani",12,"Short",3
+"Short","Evelyn","Thursday","Morning","Weyland-Yutani",7,"Short",2
+"Short","Evelyn","Tuesday","Morning","Tyrell",12,"Short",7
+"Short","Tom","Monday","Afternoon","Tyrell",6,"Short",8
+"Short","Evelyn","Wednesday","Afternoon","Cyberdyne Systems",11,"Short",13
+"Short","Cindy","Friday","Lunchtime","Mooby's Family Restaurants",3,"Short",2
+"Short","Cindy","Friday","Afternoon","Mooby's Family Restaurants",13,"Short",14
+"Short","Cindy","Tuesday","Lunchtime","Mooby's Family Restaurants",12,"Short",13
+"Short","Evelyn","Thursday","Lunchtime","Weyland-Yutani",10,"Short",86
+"Long","Jim","Thursday","Lunchtime","Cyberdyne Systems",88,"Long",75
+"Short","Yvette","Tuesday","Lunchtime","OCP Inc",9,"Short",5
+"Short","Jim","Tuesday","Morning","Weyland-Yutani",13,"Long",8
+"Short","Jim","Monday","Afternoon","Weyland-Yutani",14,"Short",7
+"Long","Yvette","Tuesday","Afternoon","Mooby's Family Restaurants",96,"Long",109
+"Short","Cindy","Tuesday","Morning","Tyrell",4,"Short",6
+"Short","Jim","Wednesday","Afternoon","Cyberdyne Systems",9,"Short",2
+"Short","Evelyn","Tuesday","Lunchtime","Cyberdyne Systems",10,"Long",17
+"Short","Cindy","Friday","Lunchtime","Mooby's Family Restaurants",8,"Short",12
+"Short","Yvette","Wednesday","Morning","OCP Inc",9,"Short",5
+"Short","Cindy","Tuesday","Afternoon","Weyland-Yutani",7,"Short",11
+"Short","Jim","Friday","Afternoon","Cyberdyne Systems",5,"Short",13
+"Short","Cindy","Tuesday","Morning","Mooby's Family Restaurants",9,"Short",13
+"Short","Yvette","Thursday","Afternoon","Tyrell",1,"Short",11
+"Short","Evelyn","Tuesday","Lunchtime","OCP Inc",10,"Short",119
+"Short","Jim","Friday","Morning","Tyrell",6,"Short",10
+"Short","Jim","Monday","Afternoon","Cyberdyne Systems",7,"Short",10
+"Long","Evelyn","Friday","Afternoon","Tyrell",63,"Long",100
+"Short","Yvette","Wednesday","Afternoon","Mooby's Family Restaurants",13,"Short",11
+"Short","Evelyn","Monday","Morning","Tyrell",10,"Short",6
+"Short","Evelyn","Thursday","Afternoon","Cyberdyne Systems",10,"Short",118
+"Short","Yvette","Thursday","Lunchtime","Weyland-Yutani",7,"Short",77
+"Short","Jim","Tuesday","Lunchtime","Mooby's Family Restaurants",9,"Short",71
+"Short","Yvette","Friday","Lunchtime","Mooby's Family Restaurants",15,"Short",10
+"Short","Evelyn","Wednesday","Morning","Tyrell",7,"Short",10
+"Short","Jim","Monday","Lunchtime","OCP Inc",7,"Short",1
+"Short","Cindy","Wednesday","Morning","Tyrell",10,"Short",14
+"Short","Cindy","Tuesday","Morning","Cyberdyne Systems",13,"Short",8
+"Short","Jim","Monday","Morning","Weyland-Yutani",5,"Short",4
+"Short","Jim","Wednesday","Lunchtime","Mooby's Family Restaurants",8,"Short",13
+"Short","Yvette","Friday","Morning","Weyland-Yutani",16,"Short",5
+"Short","Yvette","Friday","Afternoon","Cyberdyne Systems",12,"Short",10
+"Short","Tom","Monday","Morning","Mooby's Family Restaurants",2,"Short",4
+"Short","Evelyn","Tuesday","Afternoon","Cyberdyne Systems",7,"Short",10
+"Short","Cindy","Monday","Afternoon","Tyrell",12,"Short",4
+"Short","Tom","Monday","Lunchtime","OCP Inc",6,"Short",91
+"Short","Tom","Monday","Morning","Mooby's Family Restaurants",7,"Short",1
+"Short","Yvette","Thursday","Afternoon","OCP Inc",11,"Short",9
+"Short","Evelyn","Friday","Morning","Mooby's Family Restaurants",6,"Short",12
+"Short","Yvette","Friday","Morning","Weyland-Yutani",9,"Short",109
+"Long","Yvette","Tuesday","Afternoon","OCP Inc",66,"Long",74
+"Long","Yvette","Thursday","Afternoon","Weyland-Yutani",103,"Short",94
+"Short","Jim","Wednesday","Morning","Tyrell",10,"Short",16
+"Long","Cindy","Thursday","Lunchtime","Tyrell",121,"Long",71
+"Short","Evelyn","Thursday","Lunchtime","OCP Inc",17,"Short",2
+"Short","Cindy","Wednesday","Lunchtime","Tyrell",10,"Short",9
+"Short","Jim","Monday","Afternoon","Cyberdyne Systems",7,"Short",17
+"Long","Jim","Wednesday","Afternoon","Weyland-Yutani",112,"Long",84
+"Short","Jim","Wednesday","Morning","OCP Inc",17,"Short",93
+"Short","Yvette","Tuesday","Afternoon","Mooby's Family Restaurants",1,"Short",13
+"Short","Yvette","Wednesday","Lunchtime","Cyberdyne Systems",8,"Short",12
+"Short","Evelyn","Friday","Lunchtime","Weyland-Yutani",11,"Short",6
+"Short","Jim","Tuesday","Morning","Weyland-Yutani",8,"Short",10
+"Short","Tom","Thursday","Morning","Cyberdyne Systems",9,"Short",9
+"Long","Tom","Friday","Afternoon","OCP Inc",90,"Long",94
+"Long","Cindy","Monday","Lunchtime","Tyrell",100,"Long",106
+"Long","Evelyn","Wednesday","Morning","OCP Inc",101,"Long",90
+"Short","Yvette","Friday","Lunchtime","Cyberdyne Systems",6,"Short",1
+"Short","Jim","Tuesday","Morning","Weyland-Yutani",13,"Short",5
+"Short","Yvette","Friday","Lunchtime","Weyland-Yutani",1,"Short",8
+"Short","Jim","Thursday","Morning","Mooby's Family Restaurants",12,"Short",8
+"Long","Tom","Tuesday","Afternoon","Mooby's Family Restaurants",89,"Long",86
+"Long","Evelyn","Monday","Lunchtime","OCP Inc",121,"Long",112
+"Short","Evelyn","Friday","Afternoon","Cyberdyne Systems",15,"Short",9
+"Short","Yvette","Monday","Afternoon","OCP Inc",11,"Short",7
+"Long","Tom","Monday","Lunchtime","Cyberdyne Systems",126,"Long",105
+"Short","Evelyn","Thursday","Afternoon","Cyberdyne Systems",11,"Short",19
+"Short","Evelyn","Wednesday","Morning","Tyrell",10,"Short",6
+"Long","Jim","Tuesday","Morning","Mooby's Family Restaurants",115,"Long",84
+"Long","Yvette","Thursday","Lunchtime","Weyland-Yutani",89,"Long",117
+"Short","Cindy","Wednesday","Morning","Weyland-Yutani",1,"Short",6
+"Long","Cindy","Monday","Afternoon","Weyland-Yutani",108,"Long",107
+"Long","Yvette","Monday","Lunchtime","Weyland-Yutani",85,"Long",78
+"Long","Cindy","Wednesday","Lunchtime","Weyland-Yutani",95,"Long",117
+"Short","Yvette","Monday","Lunchtime","Mooby's Family Restaurants",12,"Short",9
+"Short","Cindy","Wednesday","Afternoon","Weyland-Yutani",5,"Short",12
+"Short","Evelyn","Thursday","Morning","OCP Inc",5,"Short",107
+"Short","Evelyn","Monday","Lunchtime","Weyland-Yutani",7,"Long",8
+"Long","Cindy","Tuesday","Lunchtime","OCP Inc",83,"Long",98
+"Short","Cindy","Wednesday","Lunchtime","Weyland-Yutani",4,"Short",7
+"Short","Evelyn","Thursday","Lunchtime","Cyberdyne Systems",5,"Short",4
+"Short","Cindy","Wednesday","Morning","Cyberdyne Systems",9,"Short",6
+"Short","Evelyn","Wednesday","Lunchtime","Tyrell",7,"Short",6
+"Long","Tom","Tuesday","Lunchtime","Tyrell",107,"Long",116
+"Short","Jim","Thursday","Morning","Mooby's Family Restaurants",14,"Short",11
+"Long","Yvette","Wednesday","Lunchtime","Cyberdyne Systems",125,"Long",95
+"Short","Jim","Friday","Lunchtime","Mooby's Family Restaurants",12,"Short",9
+"Short","Yvette","Thursday","Afternoon","Tyrell",8,"Short",6
+"Long","Cindy","Friday","Afternoon","OCP Inc",82,"Long",97
+"Long","Cindy","Friday","Lunchtime","Cyberdyne Systems",114,"Long",100
+"Short","Cindy","Friday","Lunchtime","Cyberdyne Systems",10,"Short",7
+"Short","Jim","Tuesday","Morning","Weyland-Yutani",5,"Short",9
+"Short","Cindy","Monday","Afternoon","OCP Inc",1,"Short",5
+"Short","Cindy","Friday","Afternoon","Tyrell",5,"Short",9
+"Long","Evelyn","Friday","Lunchtime","Cyberdyne Systems",103,"Long",90
+"Short","Tom","Thursday","Morning","Cyberdyne Systems",9,"Short",2
+"Short","Jim","Friday","Lunchtime","OCP Inc",5,"Short",1
+"Long","Tom","Tuesday","Afternoon","OCP Inc",95,"Long",87
+"Short","Evelyn","Tuesday","Lunchtime","OCP Inc",5,"Short",10
+"Long","Tom","Tuesday","Morning","Mooby's Family Restaurants",116,"Long",63
+"Short","Cindy","Tuesday","Lunchtime","Cyberdyne Systems",11,"Short",9
+"Short","Tom","Tuesday","Afternoon","Tyrell",12,"Short",9
+"Short","Jim","Thursday","Morning","OCP Inc",9,"Short",106
+"Long","Evelyn","Friday","Morning","Tyrell",93,"Long",76
+"Long","Jim","Friday","Morning","Cyberdyne Systems",112,"Long",131
+"Short","Tom","Tuesday","Afternoon","Mooby's Family Restaurants",1,"Short",104
+"Short","Cindy","Tuesday","Lunchtime","OCP Inc",9,"Short",9
+"Long","Evelyn","Friday","Lunchtime","Tyrell",74,"Long",97
+"Short","Evelyn","Friday","Lunchtime","Tyrell",14,"Short",4
+"Short","Cindy","Friday","Afternoon","Mooby's Family Restaurants",7,"Short",18
+"Long","Cindy","Friday","Afternoon","Cyberdyne Systems",113,"Long",102
+"Long","Jim","Wednesday","Morning","OCP Inc",96,"Long",85
+"Short","Jim","Monday","Morning","Weyland-Yutani",4,"Short",9
+"Short","Yvette","Wednesday","Morning","Tyrell",13,"Short",3
+"Short","Cindy","Thursday","Lunchtime","Mooby's Family Restaurants",11,"Short",6
+"Short","Tom","Thursday","Afternoon","Weyland-Yutani",10,"Short",7
+"Short","Jim","Tuesday","Morning","Cyberdyne Systems",14,"Short",3
+"Short","Cindy","Monday","Morning","Mooby's Family Restaurants",2,"Short",7
+"Long","Jim","Tuesday","Morning","OCP Inc",88,"Long",111
+"Short","Yvette","Thursday","Morning","Mooby's Family Restaurants",13,"Short",6
+"Short","Cindy","Thursday","Lunchtime","OCP Inc",4,"Short",9
+"Long","Evelyn","Friday","Morning","Tyrell",82,"Long",106
+"Short","Jim","Wednesday","Morning","Cyberdyne Systems",10,"Short",1
+"Short","Evelyn","Friday","Morning","Mooby's Family Restaurants",5,"Short",12
+"Short","Jim","Friday","Afternoon","Cyberdyne Systems",12,"Short",12
+"Short","Yvette","Thursday","Morning","Tyrell",10,"Short",11
+"Short","Jim","Monday","Afternoon","Cyberdyne Systems",14,"Short",10
+"Short","Jim","Tuesday","Lunchtime","Mooby's Family Restaurants",11,"Short",1
+"Short","Evelyn","Monday","Lunchtime","Weyland-Yutani",1,"Long",6
+"Short","Evelyn","Wednesday","Afternoon","Cyberdyne Systems",6,"Short",12
+"Long","Cindy","Tuesday","Lunchtime","Mooby's Family Restaurants",63,"Long",122
+"Short","Yvette","Wednesday","Morning","Weyland-Yutani",17,"Short",10
+"Short","Yvette","Tuesday","Afternoon","Tyrell",12,"Short",3
+"Long","Cindy","Friday","Afternoon","Tyrell",84,"Long",89
+"Short","Evelyn","Wednesday","Afternoon","Weyland-Yutani",7,"Short",6
+"Long","Yvette","Friday","Afternoon","Weyland-Yutani",125,"Long",87
+"Short","Yvette","Friday","Lunchtime","Mooby's Family Restaurants",5,"Short",10
+"Short","Yvette","Tuesday","Afternoon","OCP Inc",16,"Short",10
+"Short","Jim","Monday","Lunchtime","Mooby's Family Restaurants",5,"Short",10
+"Short","Jim","Monday","Morning","Weyland-Yutani",3,"Short",10
+"Short","Evelyn","Wednesday","Lunchtime","Mooby's Family Restaurants",4,"Short",8
+"Short","Tom","Thursday","Morning","Mooby's Family Restaurants",15,"Short",3
+"Short","Yvette","Wednesday","Lunchtime","Weyland-Yutani",10,"Short",6
+"Short","Jim","Friday","Lunchtime","Weyland-Yutani",11,"Short",20
+"Short","Jim","Monday","Lunchtime","Tyrell",12,"Short",10
+"Long","Cindy","Friday","Afternoon","Mooby's Family Restaurants",110,"Long",68
+"Short","Cindy","Tuesday","Lunchtime","Tyrell",3,"Short",12
+"Short","Cindy","Wednesday","Lunchtime","Cyberdyne Systems",7,"Short",8
+"Short","Yvette","Wednesday","Afternoon","OCP Inc",4,"Short",9
+"Short","Cindy","Thursday","Afternoon","Cyberdyne Systems",5,"Short",7
+"Short","Tom","Monday","Afternoon","Mooby's Family Restaurants",10,"Short",5
+"Short","Tom","Monday","Morning","Cyberdyne Systems",4,"Short",6
+"Short","Cindy","Tuesday","Morning","Weyland-Yutani",14,"Short",9
+"Short","Cindy","Wednesday","Morning","Tyrell",10,"Short",5
+"Long","Yvette","Wednesday","Lunchtime","Weyland-Yutani",117,"Long",115
+"Long","Jim","Tuesday","Afternoon","Tyrell",102,"Short",124
+"Short","Cindy","Monday","Lunchtime","OCP Inc",6,"Short",7
+"Short","Cindy","Friday","Lunchtime","Mooby's Family Restaurants",9,"Short",12
+"Short","Yvette","Tuesday","Morning","OCP Inc",12,"Short",6
+"Short","Tom","Friday","Lunchtime","Weyland-Yutani",7,"Long",7
+"Long","Evelyn","Monday","Lunchtime","Tyrell",74,"Long",90
+"Short","Evelyn","Tuesday","Afternoon","Weyland-Yutani",11,"Short",9
+"Short","Cindy","Friday","Afternoon","OCP Inc",9,"Short",9
+"Short","Jim","Monday","Afternoon","OCP Inc",6,"Short",11

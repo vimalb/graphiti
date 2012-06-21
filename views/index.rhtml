@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Veritabill!</title>
+    <link rel="stylesheet" href="css/vendor/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="css/vendor/jquery-ui-1.8.21.custom.css" type="text/css">
+    <link rel="stylesheet" href="css/application.css" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Bitter:400,700,400italic' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="span8">
+          <h1>Veritabill</h1>
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>Task #</th>
+                <th>Type</th>
+                <th>User</th>
+                <th>Client</th>
+                <th>Day</th>
+                <th>Time of Day</th>
+                <th>User Estimate</th>
+                <th>Veritable Estimate</th>
+                <th>Actual</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% estimates.each do |e| %>
+                <tr>
+                  <td><%= e['id'] %></td>
+                  <td><%= e['user_class'] %></td>
+                  <td><%= e['user'] %></td>
+                  <td><%= e['client'] %></td>
+                  <td><%= e['day'] %></td>
+                  <td><%= e['time_of_day'] %></td>
+                  <td><%= e['user_estimate'] / 2.0 %> hr</td>
+                  <td><%= e['veritable_estimate'] ? "#{e['veritable_estimate'] / 2.0} hr": "" %></td>
+                  <%= e['true_time'] ? "<td> #{e['true_time'] / 2.0} hr</td>" : "<form method='post' action='/complete/#{e['id']}'><td><input type='number' class='input-small' name='true_time' min='0.5' max='65' step='0.5' /></td>" %>
+                  <%= e['true_time'] ? ("<td><span style='color:" + "#{(e['true_time'] > e['user_estimate']) ? '#cc0000' : '#00cc00'}; font-size: 80%;'>(" + ((e['true_time'] > e['user_estimate']) ? "+#{(e['true_time'] - e['user_estimate']) / 2.0}" : ((e['true_time'] < e['user_estimate']) ? "-#{(e['true_time'] - e['user_estimate']).abs / 2.0}" : "0")) + ")</span></td>") : "<td><button class='btn btn-info'>Complete</button></td></form>" %>
+                </tr>
+              <% end %>
+              <tr>
+              <form id="new_task_form" method="post" action="/estimate"><fieldset>
+                <td><span style="color: #cccccc">new</span></td>
+                <td><select name="user_class" style="width: 100px">
+                  <% user_classes.each do |t| %>
+                    <option><%= t %></option>
+                  <% end %>
+                </select></td>
+                <td><select name="user" style="width: 100px">
+                  <% users.each do |u| %>
+                    <option><%= u %></option>
+                  <% end %>
+                </select></td>
+                <td><select name="client" style="width: 180px">
+                  <% clients.each do |c| %>
+                    <option><%= c %></option>
+                  <% end %>
+                </select></td>
+                <td><select name="day"  style="width: 100px">
+                  <% days.each do |d| %>
+                    <option><%= d %></option>
+                  <% end %>
+                </select></td>
+                <td><select name="time_of_day" style="width: 100px">
+                  <% times.each do |t| %>
+                    <option><%= t %></option>
+                  <% end %>
+                </select></td>
+                <td>
+                  <input type='number' class='input-small' name='user_estimate' min='0.5' max='65' step='0.5' />
+                </td>
+                <td>
+                </td>
+                <td>
+                  <button class='btn btn-primary'>Submit</button>
+                </td>
+                <td>
+                  <!-- performant? -->
+                </td></fieldset>
+              </form>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript" src="js/vendor/jquery-1.7.2.min.js"></script>
+  </body>
+</html>
